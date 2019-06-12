@@ -3,12 +3,14 @@ A system to detect attacks on the network and find vulnerabilitites in the syste
 
 
 #-------------------------------------------------------For Module 1-----------------------------------------------------------#
+
 Step 1: Install Bro-IDS on ubuntu. Refer "https://blog.rapid7.com/2017/06/24/how-to-install-and-configure-bro-on-ubuntu-linux/" for installation.
 
 Step 2: Clone "https://github.com/inigoperona/tcpdump2gureKDDCup99" project which converts traffic data into KDDCup format.
 
 
 #-----------------------------------------------------For Module 2-------------------------------------------------------------#
+
 
 Step 1: Clone the cve_search project from github. Refer "https://github.com/cve-search/cve-search".
 
@@ -28,6 +30,7 @@ Step 3: After installing mongodb run the following command one by one.
 
 
 #---------------------------------------Intelligent Cyber Security System-----------------------------------------------------#
+
 
 
 Now you are ready to run the project "Intelligent Cyber Security System" on localhost using PyCharm IDE.
